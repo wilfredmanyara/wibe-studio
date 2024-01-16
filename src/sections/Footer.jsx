@@ -185,7 +185,7 @@ const Footer = () => {
           >
             Made with &hearts; by{" "}
             <a
-              href="http://devdreaming.com"
+              href="http://bit.ly/WilfredManyara"
               target={"_blank"}
               rel="dofollow noreferrer"
             >
