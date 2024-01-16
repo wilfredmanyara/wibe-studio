@@ -176,7 +176,7 @@ const Footer = () => {
             data-scroll-speed="2"
             data-scroll-direction="horizontal"
           >
-            &copy; 2022. All Rights Reserved.
+            &copy; 2024. All Rights Reserved.
           </span>
           <span
             data-scroll
@@ -189,7 +189,7 @@ const Footer = () => {
               target={"_blank"}
               rel="dofollow noreferrer"
             >
-              CodeBucks
+              Manyara
             </a>
           </span>
         </Bottom>
